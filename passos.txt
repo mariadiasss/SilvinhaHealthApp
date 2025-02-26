@@ -12,3 +12,5 @@ cd SilvinhaHealthApp
 
 Executar o projeto:
 npx expo start --localhost --android
+
+npx expo isntall react-dom react-native-web @expo/metro-runtime
