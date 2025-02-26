@@ -10,7 +10,10 @@ npx  create-expo-app@latest SilvinhaHealthApp --template blank
 Acessar a pasta:
 cd SilvinhaHealthApp
 
+npm i
+
 Executar o projeto:
 npx expo start --localhost --android
 
+Biblioteca para roda na web
 npx expo isntall react-dom react-native-web @expo/metro-runtime
